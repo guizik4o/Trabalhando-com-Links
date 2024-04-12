@@ -1,0 +1,36 @@
+<html>
+	<head>
+		<title>PlayStation 2</title>
+		<meta charset="UTF-8">
+	</head>
+	<body>
+	<h1>PlayStation 2</h1>
+		<img src= "ps2.png"
+		 width= "300"
+		 height= "200">
+		<br/>
+		<br/>
+		
+	O PlayStation 2 (oficialmente abreviado como PS2) é um console de jogos eletrônicos produzido pela
+	Sony Computer Entertainment (SCE). Foi lançado no dia 4 de março de 2000 no Japão,
+	no dia 26 de outubro na América do Norte, e posteriormente, no dia 24 de novembro na Europa.
+	É o sucessor do PlayStation original. O PlayStation 2 é um console de sexta geração, que competiu
+	com o Dreamcast da Sega, o GameCube da Nintendo e o Xbox da Microsoft.
+
+	Devido à imensa popularidade em todo o mundo, o console, assim como seus jogos, continuaram a
+	ser fabricados mesmo após o lançamento do seu sucessor, o PlayStation 3. Somente depois de 13
+	anos do seu lançamento, perto do anúncio do lançamento do PlayStation 4,
+	que o jornal japonês Asahi Shimbun anunciou o encerramento da fabricação do console no Japão no dia 30 de dezembro de 2012.
+	E no dia 4 de janeiro de 2013, o jornal britânico The Guardian anunciou 
+	que a Sony encerrou a produção dos consoles PlayStation 2 no mundo inteiro.[4]
+
+	O PS2 é o console de videogame mais vendido de todos os tempos. De acordo com dados 
+	provenientes da Sony de 31 de março de 2012, foram vendidas mais de 155 milhões
+	de unidades de PlayStation 2[2] e mais de 420 milhões de unidades de jogos originais do console.
+	Foram lançados mais de 4000 jogos oficiais, licenciados para o console.
+	O último jogo lançado para PlayStation 2 foi Pro Evolution Soccer 2014 lançado em 8 de novembro de 2013.
+		<br/>
+		<br/>
+	<b>Fonte: <a href= "https://pt.wikipedia.org/wiki/PlayStation_2" target= "blank"> Wikipedia </b>	
+	</body>
+</html>

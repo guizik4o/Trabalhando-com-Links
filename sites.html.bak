@@ -1,0 +1,20 @@
+<html>
+	<head>
+		<title> Acessos para sites </title>
+		<meta charset="UTF-8">
+	</head>
+	<body>
+	<h1> Sites de video game </h1>
+	
+		<img src= "games.jpg" 
+		 width= "300"
+		 height= "200"
+		 <br/>
+		 <br/>
+		 <br/>
+		<li> <a href= "xbox360.html" > Xbox 360 </a> </li>
+		 <br/>
+		 <br/>
+		<li> <a href= "play2.html" > PlayStation 2 </a> </li>
+	</body>
+</html>
